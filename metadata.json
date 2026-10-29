@@ -1,0 +1,6 @@
+{
+  "name": "PulseTrack Real-Time Engagement Analytics",
+  "description": "Enterprise-grade real-time user engagement analytics dashboard tracking concurrent active visitors, event velocity, interactive conversion funnels, top active routes, and live session journeys.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
